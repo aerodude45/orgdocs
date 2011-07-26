@@ -27,11 +27,24 @@ Section 1.3 - General Public (non-voting participant)
 Any member of the general public may participate in DHMN events and meetings.
 Section 2 – Rights and Responsibilities of Members
 Section 2.1 - Regular Members
+
+
+Every member is a virtual member: active participation makes them a member. Physical members are a subset of the virtual members; they are more about managing the physical space. 
+
+
 The organization recognizes the rights of all members to have unattended access to the organization’s space. The organization also recognizes the rights of members to vote in all elections opened to regular members. The organization requires members to pay monthly dues. Members must also follow all rules set by the board pertaining to the organization’s facilities.
 
 
+(Defn of “Active Participation)
++Tim Bertram -  “two documented "makes" on the website would be active”
+
+
+Officers can/will determine the definition of “Active Participation”, “Event”, “Member Definition” in the case of any disputes.
 Section 2.2 - DHMN Officers
 Officers of DHMN shall be selected by regular members and consist of willing board members. Board officers may also lead a committee which fulfills the duties of the office.
+
+
+An absent officer designates their official representative, following the order of succession, i.e. President, VP, Treasurer, Secretary, C.T.O., Community Liaison.
 Section 2.2.1 - President
 The President shall be responsible for leading general meetings.
 * The official representative of the DHMN organization
@@ -40,7 +53,7 @@ The President shall be responsible for leading general meetings.
 * Can sign binding DHMN contracts and legal documents if approved by a referendum
 * May delegate duties at their discretion
 * Perform all actions assigned to them by referendums
-* Preside over official meetings
+* Preside over official meetings 
 * Appoint members in needed official roles until the next meeting, where the appointment will be held for a vote.
 Section 2.2.2 - Secretary
 The Secretary shall be responsible for keeping records of DHMN meetings, including sending out meeting announcements, and assuring that DHMN official records are maintained.
@@ -56,7 +69,7 @@ Section 2.2.5 - Chief Technology Officer
 * The Chief Technology Officer shall oversee the registration/administration of group-controlled resources and maintain a list of resources already established by other members, that they may be contacted in the event of issues.
 
 
-Section 2.2.6 - Community Liason
+Section 2.2.6 - Community Liaison
 Section 3 - Resignation and Expulsion
 Section 3.1 - Regular Members
 A member may be expelled from the organization at the discretion of the DHMN officers if they fail to observe the responsibilities of a regular member.
@@ -74,7 +87,11 @@ Written proposals must be submitted to a board member for sponsorship. If sponso
 4. Given less than two "Nay" votes, majority of non-abstaining "Yea" votes will cause the motion to pass.
 5. Once called to vote, a motion is open for vote for five days or until all votes are cast. At this time, the motion passes, fails, or is reconsidered.
 Section 2 - Board of Directors
-Elections for the Board of Directors shall occur semiannually at dates determined by the sitting Board of Directors and shall be open to all active members. Each voter shall vote “Yea” or “Nay” for each candidate. The number of "Yea" votes for a candidate must exceed fifty percent of votes cast for the candidate to be elected. When the election results are confirmed and announced, the board seats are vacated and assumed by the newly elected members.
+The Board of Directors is currently defined as all current elected officers of DHMN.  
+
+
+Elections for the Officers:
+Elections shall occur semiannually at dates determined by the sitting Officers and shall be open to all active members.  Each voter shall vote “Yea” or “Nay” for each candidate. The number of "Yea" votes for a candidate must exceed fifty percent of votes cast for the candidate to be elected. When the election results are confirmed and announced, the board seats are vacated and assumed by the newly elected members.
 Article IV – Revisions to These Bylaws
 Section 1 – Revisions
 Proposed revisions must be submitted to the Secretary to be sent out with regular board announcements. These bylaws may only be changed by a unanimous decision by the sitting board of directors.
