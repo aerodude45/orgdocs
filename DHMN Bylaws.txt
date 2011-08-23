@@ -22,7 +22,7 @@ Section 1.2.1 Officer Positions
 5. Chief Technology Officer
 6. Community Liaison
    1. Communication - twitter, calendar updates, site updates, facebook, answer calls (Mike P)
-   2. Personal Networking (L-Dron)
+   2. Personal Networking (L-Dron) 
 Section 1.3 - General Public (non-voting participant)
 Any member of the general public may participate in DHMN events and meetings.
 Section 2 – Rights and Responsibilities of Members
@@ -37,6 +37,8 @@ The organization recognizes the rights of all members to have unattended access 
 
 (Defn of “Active Participation)
 +Tim Bertram -  “two documented "makes" on the website would be active”
++Mark Nickel - “creation of content:  articles, reposts onto the DHMN website, etc”
++Bob Watson - working on an interesting project.
 
 
 Officers can/will determine the definition of “Active Participation”, “Event”, “Member Definition” in the case of any disputes.
@@ -56,20 +58,24 @@ The President shall be responsible for leading general meetings.
 * Preside over official meetings 
 * Appoint members in needed official roles until the next meeting, where the appointment will be held for a vote.
 Section 2.2.2 - Secretary
-The Secretary shall be responsible for keeping records of DHMN meetings, including sending out meeting announcements, and assuring that DHMN official records are maintained.
+The Secretary shall be responsible for keeping records of DHMN meetings, including sending out meeting announcements, and assuring that DHMN official records are maintained.  Coordinate the addition of content to the main DHMN website.
 Section 2.2.3 - Treasurer
 The Treasurer shall have custody of, and be held accountable for, all funds and assets of the organization, receive and give receipts for all monetary transactions of the organization, and deposit all such monies in the name of the organization. The treasurer shall publish a monthly and annual financial report.
 
 
-Section 2.2.4 - Vice-President
+Section 2.2.4 - Vice-President  (Inactive)
+Traditional role is to supplement the role of the President as necessary, however, for our purposes we would consider activating this position in order to fulfill 501c3 Non-profit organization requirements.  
 
 
 Section 2.2.5 - Chief Technology Officer
-* The Chief Technology Officer shall be the arbiter of official direction, when a conflict in technological methods arises. (such as the case of conflicting wifi access points set up during an official function, the CTO shall determine the appropriate response.)
-* The Chief Technology Officer shall oversee the registration/administration of group-controlled resources and maintain a list of resources already established by other members, that they may be contacted in the event of issues.
+The Chief Technology Officer shall be the arbiter of official direction, when a conflict in technological methods arises. (such as the case of conflicting wifi access points set up during an official function, the CTO shall determine the appropriate response.)
+
+
+The Chief Technology Officer shall oversee the registration/administration of group-controlled resources and maintain a list of resources already established by other members, that they may be contacted in the event of issues.
 
 
 Section 2.2.6 - Community Liaison
+Responsible for official communications outside of the group (i.e. press inquiries, twitter, calendar updates, site updates, facebook, answer calls).
 Section 3 - Resignation and Expulsion
 Section 3.1 - Regular Members
 A member may be expelled from the organization at the discretion of the DHMN officers if they fail to observe the responsibilities of a regular member.
@@ -86,12 +92,20 @@ Written proposals must be submitted to a board member for sponsorship. If sponso
 3. A membership vote can only be reconsidered once. A second vote resulting in at least two "Nay" votes causes a proposal vote to fail.
 4. Given less than two "Nay" votes, majority of non-abstaining "Yea" votes will cause the motion to pass.
 5. Once called to vote, a motion is open for vote for five days or until all votes are cast. At this time, the motion passes, fails, or is reconsidered.
+
+
+Putting a vote to the community:  
+“large purchases” - scale as a percentage of budget?
+TODO:  exact rules will need to be detailed regarding financial decisions.  For example, if the purchase exceeds $100, etc.
+TODO:  Create Budget.  Purchases exceeding categories of the budget would come under public vote.
 Section 2 - Board of Directors
 The Board of Directors is currently defined as all current elected officers of DHMN.  
 
 
-Elections for the Officers:
-Elections shall occur semiannually at dates determined by the sitting Officers and shall be open to all active members.  Each voter shall vote “Yea” or “Nay” for each candidate. The number of "Yea" votes for a candidate must exceed fifty percent of votes cast for the candidate to be elected. When the election results are confirmed and announced, the board seats are vacated and assumed by the newly elected members.
+Section 3 - Elections for the Officers:
+Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members and be communicated publicly.  Each voter shall vote “Yea” or “Nay” for each candidate. The number of "Yea" votes for a candidate must exceed fifty percent of votes cast for the candidate to be elected. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members.
+
+
 Article IV – Revisions to These Bylaws
 Section 1 – Revisions
 Proposed revisions must be submitted to the Secretary to be sent out with regular board announcements. These bylaws may only be changed by a unanimous decision by the sitting board of directors.
