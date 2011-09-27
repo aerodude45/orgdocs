@@ -20,25 +20,17 @@ Section 1.2.1 Officer Positions
 3. Treasurer
 4. Secretary
 5. Chief Technology Officer
-6. Community Liaison
-   1. Communication - twitter, calendar updates, site updates, facebook, answer calls (Mike P)
-   2. Personal Networking (L-Dron) 
+6. Community Liaison 
 Section 1.3 - General Public (non-voting participant)
 Any member of the general public may participate in DHMN events and meetings.
 Section 2 – Rights and Responsibilities of Members
 Section 2.1 - Regular Members
 
 
-Every member is a virtual member: active participation makes them a member. Physical members are a subset of the virtual members; they are more about managing the physical space. 
+Every member is a virtual member: active participation makes them a member. Physical members are a subset of the virtual members; they are more interested in use and management of the physical space. 
 
 
 The organization recognizes the rights of all members to have unattended access to the organization’s space. The organization also recognizes the rights of members to vote in all elections opened to regular members. The organization requires members to pay monthly dues. Members must also follow all rules set by the board pertaining to the organization’s facilities.
-
-
-(Defn of “Active Participation)
-+Tim Bertram -  “two documented "makes" on the website would be active”
-+Mark Nickel - “creation of content:  articles, reposts onto the DHMN website, etc”
-+Bob Watson - working on an interesting project.
 
 
 Officers can/will determine the definition of “Active Participation”, “Event”, “Member Definition” in the case of any disputes.
@@ -48,7 +40,7 @@ Officers of DHMN shall be selected by regular members and consist of willing boa
 
 An absent officer designates their official representative, following the order of succession, i.e. President, VP, Treasurer, Secretary, C.T.O., Community Liaison.
 Section 2.2.1 - President
-The President shall be responsible for leading general meetings.
+The President’s responsibilities shall be:
 * The official representative of the DHMN organization
 * Create referendums to keep the DHMN organization relevant and solvent
 * Create referendums for DHMN campaigns and general policy
@@ -60,7 +52,7 @@ The President shall be responsible for leading general meetings.
 Section 2.2.2 - Secretary
 The Secretary shall be responsible for keeping records of DHMN meetings, including sending out meeting announcements, and assuring that DHMN official records are maintained.  Coordinate the addition of content to the main DHMN website.
 Section 2.2.3 - Treasurer
-The Treasurer shall have custody of, and be held accountable for, all funds and assets of the organization, receive and give receipts for all monetary transactions of the organization, and deposit all such monies in the name of the organization. The treasurer shall publish a monthly and annual financial report.
+The Treasurer shall have custody of, and be held accountable for, all funds and assets of the organization, receive and give receipts for all monetary transactions of the organization, maintain records of all transactions, and deposit all such monies in the name of the organization. The treasurer shall publish a monthly and annual financial report.  Any transaction larger than 10% of monthly revenue shall require a board vote.
 
 
 Section 2.2.4 - Vice-President  (Inactive)
@@ -81,29 +73,23 @@ Section 3.1 - Regular Members
 A member may be expelled from the organization at the discretion of the DHMN officers if they fail to observe the responsibilities of a regular member.
 A member may be abruptly terminated without warning if they commit a criminal act upon person or property while on organization premises or at organization functions.
 Section 3.2 - Board Members
-A member may submit a proposal to cast a revote for one or more given officer positions during the elected member’s term. If this proposal is struck down by the officers, a petition signed by one fourth of current members will overturn this decision and invoke a public election for the given board positions.
+A member may submit a proposal to cast a re-vote for one or more given officer positions during the elected member’s term. If this proposal is struck down by the officers, a petition signed by one fourth of current members will overturn this decision and invoke a public election for the given board positions.
 Section 3.3 - Inactivity
 A member is deemed inactive if he or she fails to provide a monthly pledged contribution for three months and shall forfeit membership.
 ARTICLE III – Voting
 Section 1 - Proposals
 Written proposals must be submitted to a board member for sponsorship. If sponsored, a proposal must be made publicly available for review for no less than three days before the proposal may be voted on. Proposals shall be voted upon by the board of directors. The methods for determining the result of proposal vote (with the exception of bylaws amendments) are as follows:
-1. Majority of non-abstaining nay votes will cause vote to fail.
-2. Minimum two nays to reconsider proposal vote at next meeting.
-3. A membership vote can only be reconsidered once. A second vote resulting in at least two "Nay" votes causes a proposal vote to fail.
-4. Given less than two "Nay" votes, majority of non-abstaining "Yea" votes will cause the motion to pass.
-5. Once called to vote, a motion is open for vote for five days or until all votes are cast. At this time, the motion passes, fails, or is reconsidered.
+1. Majority of “Yea” votes will cause vote to pass.
+2. A proposal vote can only be re-proposed once. A second vote resulting majority "Nay" will cause a proposal to permanently fail.
+3. Once called to vote, a motion is open for vote for five days or until all votes are cast. At this time, the motion passes, fails, or is re-proposed.
 
 
-Putting a vote to the community:  
-“large purchases” - scale as a percentage of budget?
-TODO:  exact rules will need to be detailed regarding financial decisions.  For example, if the purchase exceeds $100, etc.
-TODO:  Create Budget.  Purchases exceeding categories of the budget would come under public vote.
 Section 2 - Board of Directors
 The Board of Directors is currently defined as all current elected officers of DHMN.  
 
 
 Section 3 - Elections for the Officers:
-Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members and be communicated publicly.  Each voter shall vote “Yea” or “Nay” for each candidate. The number of "Yea" votes for a candidate must exceed fifty percent of votes cast for the candidate to be elected. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members.
+Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members and be communicated publicly.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members.
 
 
 Article IV – Revisions to These Bylaws
