@@ -7,12 +7,12 @@ DHMN is organized exclusively for charitable, scientific and education purposes.
 ARTICLE II — Members
 Section 1 - Eligibility
 Section 1.1 - Membership
-Regular DHMN members must have two signatures from members on a completed membership application and be current on their DHMN dues payment.
+Regular members must have two signatures from members on a completed membership application and be current on their DHMN dues payment.
 
 
-Limited DHMN members must be current on their DHMN dues payments.
+Limited members must be current on their DHMN dues payments.
 Section 1.2 - Officers
-A member is eligible for an Officer position if they have remained an active member for at least 3 consecutive months preceding the election.  
+A member is eligible for an Officer position if they have remained an active Regular member for at least 3 consecutive months preceding the election.  
 Section 1.2.1 Officer Positions
 1. President
 2. Vice President (see note in Article II, Section 2.2.4)
@@ -29,18 +29,18 @@ Section 2.1 - Regular Members and Limited Members
 The DHMN consists of two types of members: Regular members and Limited members.
 
 
-Regular members are more interested in frequent use and management of the physical space than are limited members and shall pay higher monthly membership dues than limited members.
+Regular members are more interested in frequent use and management of the physical space than are Limited members and shall pay higher monthly membership dues than Limited members.
 
 
-The DHMN recognizes the rights of regular members to have 24/7 unattended access to the DHMN’s space. 
+The DHMN recognizes the rights of Regular members who are current in their dues to have 24/7 unattended access to the DHMN’s space. 
 
 
-Limited members shall have access to the DHMN’s space when a regular member is at the space.
+Limited members who are current in their dues shall have access to the DHMN’s space when a Regular member is at the space.
 
 
-The DHMN also recognizes the rights of regular and limited members to vote in all elections opened to members. The DHMN requires members to pay monthly dues. Members must also follow all rules set by the board pertaining to the DHMN’s facilities.
+The DHMN also recognizes the rights of Regular and Limited members to vote in all elections opened to members. The DHMN requires members to pay monthly dues. Members must also follow all rules set by the board pertaining to the DHMN’s facilities.
 Section 2.2 - DHMN Officers
-Officers of DHMN shall be selected by regular members and consist of willing board members. Board officers may also lead a committee which fulfills the duties of the office.
+Officers of the DHMN shall be selected by a vote of Regular and Limited members and consist of willing members. Board officers may also lead a committee which fulfills the duties of the office.
 
 
 An absent officer designates their official representative, following the order of succession, i.e. President, VP, Treasurer, Secretary, C.T.O., Community Liaison.
@@ -48,16 +48,16 @@ Section 2.2.1 - President
 The President’s responsibilities shall be:
 * The official representative of the DHMN organization
 * Create referendums to keep the DHMN organization relevant and solvent
-* Create referendums for DHMN campaigns and general policy
+* Create referendums for the DHMN campaigns and general policy
 * Can sign binding DHMN contracts and legal documents if approved by a referendum
-* May delegate duties at their discretion
+* Delegate duties at their discretion
 * Perform all actions assigned to them by referendums
 * Preside over official meetings 
 * Appoint members in needed official roles until the next meeting, where the appointment will be held for a vote.
 Section 2.2.2 - Secretary
-The Secretary shall be responsible for keeping records of DHMN meetings, including sending out meeting announcements, and assuring that DHMN official records are maintained.  Coordinate the addition of content to the main DHMN website.
+The Secretary shall be responsible for keeping records of the DHMN meetings, including sending out meeting announcements, and assuring that the DHMN official records are maintained.  Coordinate the addition of content to the main DHMN website (while Community Liaison coordinates DHMN website updates such as event info, press releases and typical PR materials).
 Section 2.2.3 - Treasurer
-The Treasurer shall have custody of, and be held accountable for, all funds and assets of the organization, receive and give receipts for all monetary transactions of the organization, maintain records of all transactions, and deposit all such monies in the name of the organization. The treasurer shall publish a monthly and annual financial report.  Any transaction larger than 10% of monthly revenue shall require a board vote.
+The Treasurer shall have custody of, and be held accountable for, all funds and assets of the DHMN, receive and give receipts for all monetary transactions of the DHMN, maintain records of all transactions, and deposit all such monies in the name of the DHMN. The treasurer shall publish a monthly and annual financial report.  Any transaction larger than 10% of monthly revenue shall require a board vote.
 
 
 Section 2.2.4 - Vice-President  (Inactive)
@@ -65,28 +65,28 @@ Traditional role is to supplement the role of the President as necessary, howeve
 
 
 Section 2.2.5 - Chief Technology Officer
-The Chief Technology Officer shall be the arbiter of official direction when a conflict in technological methods arises (such as the case of conflicting wifi access points set up during an official function).
+The Chief Technology Officer shall be the arbiter of official direction when a conflict in technological methods arises (e.g. the case of conflicting wifi access points set up during an official function).
 
 
 The Chief Technology Officer shall oversee the registration/administration of group-controlled resources and maintain a list of resources already established by other members, that they may be contacted in the event of issues.
 
 
 Section 2.2.6 - Community Liaison
-Responsible for official communications outside of the group (i.e. press inquiries, twitter, calendar updates, site updates, facebook, answer calls).
+Responsible for official communications outside of the DHMN (i.e. press inquiries, Twitter, calendar updates, website updates, Facebook, answer calls).
 Section 3 - Resignation and Expulsion
 Section 3.1 - Regular and Limited Members
-Regular and limited members may be expelled from the DHMN by proposal and vote of the DHMN board of officers if the members fail to observe the member responsibilities as defined in writing by the board..
+Regular and Limited members may be expelled from the DHMN by proposal and vote of the DHMN board of officers if the members fail to observe the member responsibilities as defined in writing by the board.
 
 
 A member may be abruptly terminated without warning if they commit a criminal act upon person or property while on the DHMN’s premises or at the DHMN’s functions.
 Section 3.2 - Board Members
-A member may submit a proposal to cast a re-vote for one or more given officer positions during the elected officer’s term. If this proposal is struck down by the Board of Directors, a petition signed by one fourth of current members will overturn this decision and invoke a public election for the given board positions.
+A member may submit a proposal to cast a re-vote for one or more given officer positions during the elected officers’ terms. If this proposal is struck down by the Board of Directors, a petition signed by one fourth of current members will overturn this decision and invoke a public election for the given board positions.
 Section 3.3 - Inactivity
-A member is deemed inactive if he or she fails to pay their dues for three months and shall forfeit membership.
+A member is deemed inactive if he or she fails to pay their dues on time and shall forfeit membership after three consecutive months of dues non-payment. A member with less than three consecutive dues non-payment will be reinstated to active status upon payment of owed dues.
 ARTICLE III – Voting
 Section 1 - Proposals
-Written proposals must be submitted to a board member for sponsorship. If sponsored, a proposal must be made publicly available for review, with members notified via the DHMN mailing list, for no less than three days before the proposal may be voted on. Proposals shall be voted upon by the board of directors. The methods for determining the result of proposal vote (with the exception of bylaws amendments) are as follows:
-1. A quorum for board meetings shall be three board members participating (in person or remote) in the meeting.
+Written proposals must be submitted to a board member for sponsorship. If sponsored, a proposal must be made publicly available for review, with members being sent a link to or copy of the proposal via the DHMN mailing list, for no less than three days before the proposal may be voted on. Proposals shall be voted upon by the board of directors. The methods for determining the result of proposal vote (with the exception of bylaws amendments) are as follows:
+1. A quorum for board meetings shall be three board members participating (in person or remotely) in the meeting.
 2. Majority of “Yea” votes will cause vote to pass.
 3. A proposal vote can only be re-proposed once. A second vote resulting in a majority of "Nay" will cause a proposal to permanently fail.
 4. In the event of a tie vote, the proposal fails.
@@ -94,11 +94,11 @@ Written proposals must be submitted to a board member for sponsorship. If sponso
 
 
 Section 2 - Board of Directors
-The Board of Directors, a.k.a. board, is defined as all current elected officers of the DHMN.  
+The Board of Directors, a.k.a. board, a.k.a. board of officers, is defined as all current elected officers of the DHMN.  
 
 
 Section 3 - Elections for the Officers:
-Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members and be communicated publicly.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members.
+Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members and be communicated via the DHMN mailing list.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members.
 
 
 Article IV – Revisions to These Bylaws
