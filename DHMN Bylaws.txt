@@ -29,10 +29,7 @@ Section 2.1 - Regular Members and Limited Members
 The DHMN consists of two types of members: Regular members and Limited members.
 
 
-Regular members are more interested in frequent use and management of the physical space than are Limited members and shall pay higher monthly membership dues than Limited members.
-
-
-The DHMN recognizes the rights of Regular members who are current in their dues to have 24/7 unattended access to the DHMN’s space. 
+Regular members pay higher monthly dues for unlimited access to DHMN’s physical space.
 
 
 Limited members who are current in their dues shall have access to the DHMN’s space when a Regular member is at the space.
@@ -40,7 +37,7 @@ Limited members who are current in their dues shall have access to the DHMN’s 
 
 The DHMN also recognizes the rights of Regular and Limited members to vote in all elections opened to members. The DHMN requires members to pay monthly dues. Members must also follow all rules set by the board pertaining to the DHMN’s facilities.
 Section 2.2 - DHMN Officers
-Officers of the DHMN shall be selected by a vote of Regular and Limited members and consist of willing members. Board officers may also lead a committee which fulfills the duties of the office.
+Officers of the DHMN shall be selected by a vote of Regular and Limited members. Board officers may also lead a committee which fulfills the duties of the office.
 
 
 An absent officer designates their official representative, following the order of succession, i.e. President, VP, Treasurer, Secretary, C.T.O., Community Liaison.
@@ -61,7 +58,7 @@ The Treasurer shall have custody of, and be held accountable for, all funds and 
 
 
 Section 2.2.4 - Vice-President  (Inactive)
-Traditional role is to supplement the role of the President as necessary, however, for our purposes we would consider activating this position in order to fulfill 501c3 Non-profit organization requirements.  
+Traditional role is to supplement the role of the President, but is not necessary for DHMN.  However, we would consider activating this position in order to fulfill 501c3 Non-profit organization requirements.
 
 
 Section 2.2.5 - Chief Technology Officer
@@ -85,7 +82,7 @@ Section 3.3 - Inactivity
 A member is deemed inactive if he or she fails to pay their dues on time and shall forfeit membership after three consecutive months of dues non-payment. A member with less than three consecutive dues non-payment will be reinstated to active status upon payment of owed dues.
 ARTICLE III – Voting
 Section 1 - Proposals
-Written proposals must be submitted to a board member for sponsorship. If sponsored, a proposal must be made publicly available for review, with members being sent a link to or copy of the proposal via the DHMN mailing list, for no less than three days before the proposal may be voted on. Proposals shall be voted upon by the board of directors. The methods for determining the result of proposal vote (with the exception of bylaws amendments) are as follows:
+Written proposals must be submitted to a board member for sponsorship. If sponsored, a proposal must be made publicly available for review, with members being sent a link to or copy of the proposal via the DHMN mailing list, for no less than three days before the proposal may be voted on. Proposals shall be voted upon by the board of directors. The methods for determining the result of proposal vote are as follows:
 1. A quorum for board meetings shall be three board members participating (in person or remotely) in the meeting.
 2. Majority of “Yea” votes will cause vote to pass.
 3. A proposal vote can only be re-proposed once. A second vote resulting in a majority of "Nay" will cause a proposal to permanently fail.
