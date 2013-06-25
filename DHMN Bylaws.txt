@@ -1,16 +1,25 @@
 ﻿DHMN Bylaws
 ARTICLE I — NAME AND PURPOSE
 Section 1 - Name
-The name of the organization shall be Distributed Hacker/Maker Network, a.k.a. DHMN, and it shall be a nonprofit organization incorporated under the laws of the State of Wisconsin.
+The name of the organization shall be Distributed Hacker/Maker Network, a.k.a. DHMN,[a][b][c][d][e] and it shall be a nonprofit organization incorporated under the laws of the State of Wisconsin.
 Section 2 - Purpose
-DHMN is organized for charitable, scientific and education purposes. In addition to exploring the benefits of productivity through volunteer collaboration, the DHMN’s primary objectives are to create, educate, share and learn.
+DHMN is organized for charitable, scientific and education purposes. 
+
+
+The primary purpose of DHMN is to empower and ensure the survival of the thriving community that meets in the brick and mortar building located at 120 N. Morrison Street in Appleton, Wisconsin.  This location is called “The Appleton Makerspace, powered by DHMN”.  The Appleton Makerspace is a community workshop with a health-club membership model.  We are a cross of machine shop, electronics manufacturer, programmers co-op and art studio, but with mentors, classes and personal project space.[f]
+
+
+In addition to exploring the benefits of productivity through volunteer collaboration, the DHMN’s primary objectives are to create, educate, share and learn.[g][h][i]
+
+
+Section 3 - Scope[j][k][l][m][n][o]
 ARTICLE II — Members
 Section 1 - Eligibility
 Section 1.1 - Membership
-Regular members must have two signatures from members on a completed membership application /* do we still want this */ and be current on their DHMN dues payment.
+Regular mMembers must have two signatures from members on a completed membership application /* do we still want this */[p][q] and be current on their DHMN dues payment.
 
 
-Limited members must be current on their DHMN dues payments.
+Limited members must be current on their DHMN dues payments.[r]
 Section 1.2 - Officers
 A member is eligible for an Officer position if they have remained an active Regular member for at least 3 consecutive months preceding the election.  
 Section 1.2.1 Officer Positions
@@ -21,9 +30,9 @@ Section 1.2.1 Officer Positions
 5. Chief Technology Officer
 6. Community Liaison 
 Section 1.3 - General Public (non-voting participant)
-Any member of the general public may participate in DHMN events and meetings that have been designated for public participation.
+Any member of the general public may participate in DHMN events and meetings that have been designated for public participation, but they may not vote at organizational meetings.
 Section 2 – Rights and Responsibilities of Members
-Section 2.1 - Regular Members and Limited Members
+Section 2.1 - Regular Members and Limited Members[s]
 
 
 The DHMN consists of two types of members: Regular members and Limited members.
@@ -40,7 +49,7 @@ Section 2.2 - DHMN Officers
 Officers of the DHMN shall be selected by a vote of Regular and Limited members. Board officers may also lead a committee which fulfills the duties of the office.
 
 
-An absent officer designates their official representative, following the order of succession, i.e. President, VP, Treasurer, Secretary, C.T.O., Community Liaison.
+An absent officer designates their official representative[t][u], following the order of succession, i.e. President, VP, Treasurer, Secretary, C.T.O., Community Liaison.
 Section 2.2.1 - President
 The President’s responsibilities shall be:
 * The official representative of the DHMN organization
@@ -59,6 +68,7 @@ The Treasurer shall have custody of, and be held accountable for, all funds and 
 
 Section 2.2.4 - Vice-President  (Inactive)
 Traditional role is to supplement the role of the President, but is not necessary for DHMN.  However, we would consider activating this position in order to fulfill 501c3 Non-profit organization requirements.
+Also serves as Facilities Manager of the Appleton Makerspace.  Determines acceptance or denial of donated materials such as furniture or equipment (up to a threshold that has yet to be determined).  Of the community material available to the makerspace, nothing comes in or goes out of the space without the approval of the VP/Facilities Manager.
 
 
 Section 2.2.5 - Chief Technology Officer
@@ -69,10 +79,13 @@ The Chief Technology Officer shall oversee the registration/administration of gr
 
 
 Section 2.2.6 - Community Liaison
-Responsible for official communications outside of the DHMN (i.e. press inquiries, Twitter, calendar updates, website updates, Facebook, answer calls).
+Responsible for official communications outside of the DHMN (i.e. press inquiries, Twitter, calendar updates, website updates, Facebook, answer calls).    The community liaison also is the de facto lead for member events, new member initiatives, and welcoming new members.
+
+
+Section 2.3 - Makerships (“Sweat Equity” members)[v]
 Section 3 - Resignation and Expulsion
 Section 3.1 - Regular and Limited Members
-Regular and Limited members may be expelled from the DHMN by proposal and vote of the DHMN board of officers if the members fail to observe the member responsibilities as defined in writing by the board.
+Regular and Limited members may be expelled from the DHMN by proposal and vote of the DHMN board of officers[w] if the members fail to observe the member responsibilities as defined in writing by the board.
 
 
 A member may be abruptly terminated without warning if they commit a criminal act upon person or property while on the DHMN’s premises or at the DHMN’s functions.
@@ -90,12 +103,12 @@ Written proposals must be submitted to a board member for sponsorship. If sponso
 5. The President may vote and may sponsor proposals.
 
 
-Section 2 - Board of Directors
+Section 2 - Board of Directors[x]
 The Board of Directors, a.k.a. board, a.k.a. board of officers, is defined as all current elected officers of the DHMN.  
 
 
 Section 3 - Elections for the Officers:
-Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members and be communicated via the DHMN mailing list.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members.
+Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members[y] and be communicated via the DHMN mailing list.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members[z].
 
 
 Article IV – Revisions to These Bylaws
@@ -112,5 +125,31 @@ In the event that a movement to dissolve the DHMN passes, assets may be liquidiz
 
 
 
-[a]
-[a]Ross I have access.  This comment is to test how notification works.
+[aa]
+[a]Shall it be DHMN forever?  I could see this name changed to "Appleton Makerspace, powered by DHMN" without many changes to the day to day operation of the mailing list, website, or makerspace.  We need to define who we are, and whether we exist as one or multiple organizations.
+[b]We exist now as one organization, and I recommend DHMN stay as it is.  I recommend The Appleton Makerspace can become it's own org when we can afford to put time into maintaining the overhead of two different orgs.  In the mean time, I recommend AMpbDHMN is an office location of DHMN.
+[c]Do we really have the time and resources to maintain two organizations at this point?  It doesn't seem like organizational skills are the group's forte, and creating two organizations could create additional demands for the leadership at a time when many things require their attention.
+[d]Not sure these comments are doing the job of communicating that we need - I'm suggesting that we _don't_ have two orgs - just 1 org (DHMN) and it's current physical office location (Appleton Makerspace)
+[e]Fair enough.  I think we agree on that.
+[f]Copied from EQL's elevator speech on the Trello boards.
+[g]There is NOTHING in here about creating a network of more than one makerspaces or serving as the parent body for a group of makers around the world.
+[h]added.
+[i]Why add it now if it was never there before?
+[j]Need to determine if this document covers DHMN, The Appleton Makerspace, or both.  Also up for debate is whether DHMN is a different entity than the Appleton Makerspace.
+[k]The wording of Section 3 scope should be changed to reflect the fact that members of the Appleton Makerspace are not by default members of the DHMN. Some makerspace members may have no desire to be members of the DHMN, and there is no reason to force them to be. There may be value in making all members of the DHMN nominal members of the Appleton Makerspace. But the two organizations are not equivalent now and from Day One of the DHMN were not intended to be equivalent.
+[l]A conversation with Shane Grey would be worthwhile and timely. This very topic was discussed at last night's 7/29/2015 Appleton Makerspace org meeting. Efforts should be combined!
+[m]Might you suggest good way to combine efforts? You, Ross, Shane and I meet on a Thurs or Mon night at Makerspace?
+[n]I'll send an email to the primary parties - hopefully to expand to more people.
+[o]Please include Mark Nickel and Erin in your communications. Two of the DHMN cofounders.
+[p]Do we have an actual membership application, other than the process of starting to give money?
+[q]I recommend we keep this, and will build an iteration-1 process doc for it including the membership app.
+[r]This seems redundant, and could be removed.
+[s]Needs an update due to new definitions of membership.
+[t]We need to follow this rule, or remove it.
+[u]Agreed
+[v]The words "sweat equity" were not in the bylaws, apparently.  I'm OK with the removal of these words, but they are in there because it is currently a common term in the organization.
+[w]Does the vote have to be unanimous, or a simple majority?  There might be some tense moments if a 3-2 vote (with one abstention) kicks someone out of the space.  Tiebreakers should probably be covered here, as well, since I think we have 6 board members (Pres, VP, CTO, Treas, Secretary, Community Liaison).
+[x]Does this still apply, given the names on our tax stuff don't match our current leadership?
+[y]This is the only time that members are allowed to vote according to these bylaws.  The Board (and the org) acts more like a city council than a general election.  We can choose either to follow this convention, or change all verbiage to make everything a direct democracy (for better or for worse).
+[z]Should there be any rules for moving treasurer responsibilities that are different than the other officer's rules?  I assume that we can't immediately change all of the account stuff.
+[aa]Ross I have access.  This comment is to test how notification works.
