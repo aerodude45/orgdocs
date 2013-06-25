@@ -7,7 +7,7 @@ DHMN is organized for charitable, scientific and education purposes. In addition
 ARTICLE II — Members
 Section 1 - Eligibility
 Section 1.1 - Membership
-Regular members must have two signatures from members on a completed membership application and be current on their DHMN dues payment.
+Regular members must have two signatures from members on a completed membership application /* do we still want this */ and be current on their DHMN dues payment.
 
 
 Limited members must be current on their DHMN dues payments.
