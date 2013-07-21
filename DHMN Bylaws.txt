@@ -9,7 +9,7 @@ DHMN is organized for charitable, scientific and education purposes.
 The primary purpose of DHMN is to empower and ensure the survival of the thriving community that meets in the brick and mortar building located at 120 N. Morrison Street in Appleton, Wisconsin.  This location is called “The Appleton Makerspace, powered by DHMN”.  The Appleton Makerspace is a community workshop with a health-club membership model.  We are a cross of machine shop, electronics manufacturer, programmers co-op and art studio, but with mentors, classes and personal project space.[f]
 
 
-In addition to exploring the benefits of productivity through volunteer collaboration, the DHMN’s primary objectives are to create, educate, share and learn.[g][h][i]
+In addition to exploring the benefits of productivity through volunteer collaboration, the DHMN’s primary objectives are to create, educate, share and learn by creating a sustainable, collaborate, open-source network between all makerspaces around the world.[g][h][i]
 
 
 Section 3 - Scope[j][k][l][m][n][o]
@@ -79,13 +79,13 @@ The Chief Technology Officer shall oversee the registration/administration of gr
 
 
 Section 2.2.6 - Community Liaison
-Responsible for official communications outside of the DHMN (i.e. press inquiries, Twitter, calendar updates, website updates, Facebook, answer calls).    The community liaison also is the de facto lead for member events, new member initiatives, and welcoming new members.
+Responsible for official communications outside of the DHMN (i.e. press inquiries, Twitter, calendar updates, website updates, Facebook, answer calls).    The community liaison also is the de facto lead for member events, new member initiatives, and welcoming new members.[v]
 
 
-Section 2.3 - Makerships (“Sweat Equity” members)[v]
+Section 2.3 - Makerships (“Sweat Equity” members)[w]
 Section 3 - Resignation and Expulsion
 Section 3.1 - Regular and Limited Members
-Regular and Limited members may be expelled from the DHMN by proposal and vote of the DHMN board of officers[w] if the members fail to observe the member responsibilities as defined in writing by the board.
+Regular and Limited members may be expelled from the DHMN by proposal and vote of the DHMN board of officers[x] if the members fail to observe the member responsibilities as defined in writing by the board.
 
 
 A member may be abruptly terminated without warning if they commit a criminal act upon person or property while on the DHMN’s premises or at the DHMN’s functions.
@@ -103,17 +103,17 @@ Written proposals must be submitted to a board member for sponsorship. If sponso
 5. The President may vote and may sponsor proposals.
 
 
-Section 2 - Board of Directors[x]
+Section 2 - Board of Directors[y]
 The Board of Directors, a.k.a. board, a.k.a. board of officers, is defined as all current elected officers of the DHMN.  
 
 
 Section 3 - Elections for the Officers:
-Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members[y] and be communicated via the DHMN mailing list.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members[z].
+Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active members[z] and be communicated via the DHMN mailing list.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected members[aa].
 
 
 Article IV – Revisions to These Bylaws
 Section 1 – Revisions
-Proposed revisions must be submitted to the Secretary to be sent out with regular board announcements. These bylaws may only be changed by a unanimous decision by the sitting board of directors.
+Proposed revisions must be submitted to the Secretary to be sent out with regular board announcements. These bylaws may only be changed by a unanimous decision by the sitting board of directors.[ab]
 Article V – Dissolution of the Organization
 Section 1 – Dissolution
 The DHMN may not dissolve less than 30 days from the time a proposal to dissolve passes.
@@ -125,7 +125,7 @@ In the event that a movement to dissolve the DHMN passes, assets may be liquidiz
 
 
 
-[aa]
+[ac]
 [a]Shall it be DHMN forever?  I could see this name changed to "Appleton Makerspace, powered by DHMN" without many changes to the day to day operation of the mailing list, website, or makerspace.  We need to define who we are, and whether we exist as one or multiple organizations.
 [b]We exist now as one organization, and I recommend DHMN stay as it is.  I recommend The Appleton Makerspace can become it's own org when we can afford to put time into maintaining the overhead of two different orgs.  In the mean time, I recommend AMpbDHMN is an office location of DHMN.
 [c]Do we really have the time and resources to maintain two organizations at this point?  It doesn't seem like organizational skills are the group's forte, and creating two organizations could create additional demands for the leadership at a time when many things require their attention.
@@ -147,9 +147,11 @@ In the event that a movement to dissolve the DHMN passes, assets may be liquidiz
 [s]Needs an update due to new definitions of membership.
 [t]We need to follow this rule, or remove it.
 [u]Agreed
-[v]The words "sweat equity" were not in the bylaws, apparently.  I'm OK with the removal of these words, but they are in there because it is currently a common term in the organization.
-[w]Does the vote have to be unanimous, or a simple majority?  There might be some tense moments if a 3-2 vote (with one abstention) kicks someone out of the space.  Tiebreakers should probably be covered here, as well, since I think we have 6 board members (Pres, VP, CTO, Treas, Secretary, Community Liaison).
-[x]Does this still apply, given the names on our tax stuff don't match our current leadership?
-[y]This is the only time that members are allowed to vote according to these bylaws.  The Board (and the org) acts more like a city council than a general election.  We can choose either to follow this convention, or change all verbiage to make everything a direct democracy (for better or for worse).
-[z]Should there be any rules for moving treasurer responsibilities that are different than the other officer's rules?  I assume that we can't immediately change all of the account stuff.
-[aa]Ross I have access.  This comment is to test how notification works.
+[v]We appear to have added these responsibilities to the position without them actually being present in the bylaws.
+[w]The words "sweat equity" were not in the bylaws, apparently.  I'm OK with the removal of these words, but they are in there because it is currently a common term in the organization.
+[x]Does the vote have to be unanimous, or a simple majority?  There might be some tense moments if a 3-2 vote (with one abstention) kicks someone out of the space.  Tiebreakers should probably be covered here, as well, since I think we have 6 board members (Pres, VP, CTO, Treas, Secretary, Community Liaison).
+[y]Does this still apply, given the names on our tax stuff don't match our current leadership?
+[z]This is the only time that members are allowed to vote according to these bylaws.  The Board (and the org) acts more like a city council than a general election.  We can choose either to follow this convention, or change all verbiage to make everything a direct democracy (for better or for worse).
+[aa]Should there be any rules for moving treasurer responsibilities that are different than the other officer's rules?  I assume that we can't immediately change all of the account stuff.
+[ab]These changes are NOT by popular vote from members, only by the sitting board of directors.
+[ac]Ross I have access.  This comment is to test how notification works.
