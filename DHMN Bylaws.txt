@@ -3,7 +3,7 @@ ARTICLE I — NAME AND PURPOSE
 Section 1 - Name
 The name of the organization shall be Distributed Hacker/Maker Network, a.k.a. DHMN,[a][b][c][d][e] and it shall be a nonprofit organization incorporated under the laws of the State of Wisconsin.
 Section 2 - Purpose
-DHMN is organized for charitable, scientific and education purposes. 
+The organization is organized exclusively for charitable, religious, educational, and scientific purposes under Section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code.
 
 
 The primary purpose of DHMN is to empower and ensure the survival of the thriving community that currently meets in two contexts - the brick and mortar building currently located at 120 N. Morrison Street in Appleton, Wisconsin and the virtual members that participate on the group’s mailing list, website, and social media outlets.  DHMN’s physical location is called “The Appleton Makerspace, powered by DHMN”.  The Appleton Makerspace is a community workshop with a health-club membership model.  We are a cross of machine shop, electronics manufacturer, programmers co-op and art studio, but with mentors, classes and personal project space.[f] 
@@ -137,14 +137,7 @@ Article V – Revisions to These Bylaws
 Section 1 – Revisions
 Proposed revisions must be submitted to the Secretary to be sent out with regular board announcements. These bylaws may only be changed by a unanimous decision by the sitting board of directors.[ag]
 Article VI – Dissolution of the Organization
-Section 1 – Dissolution
-The DHMN may not dissolve less than 30 days from the time a proposal to dissolve passes.
-Section 2 – Asset Distribution
-In the event that a movement to dissolve the DHMN passes, assets may be liquidized to pay off any debt the organization may have accrued. Any remaining assets of the DHMN must be donated to an IRS 501c3 compliant charitable, educational, or scientific endeavor.
-
-
-
-
+Upon the dissolution of this organization, assets shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code, or shall be distributed to the federal government, or to a state or local government, for a public purpose.
 
 
 [ah]
