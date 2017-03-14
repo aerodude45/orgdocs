@@ -1,30 +1,95 @@
-# DHMN Bylaws
+whole board, any time, mandatoey comment period, or 70% super maj of members
+can discus member awards and loss in private.
 
-## 1 — NAME AND PURPOSE
+2 year stagered
+march 1 st
 
-### 1.1 - Name
+draft done 5th
+board review 12th
+to members by 15th
+board vote on 18th, immediate call for elections
 
-The name of the organization shall be Distributed Hacker/Maker Network, a.k.a. DHMN and it shall be a nonprofit organization incorporated under the laws of the State of Wisconsin.
+ejection is similar to current rule
 
-### 1.2 - Purpose
+perhaps something to stop the board from throwing out all members?  current members can re-vote as if it hadn't happened.
 
-The organization is organized exclusively for charitable, religious, educational, and scientific purposes under Section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code.
+associate member instead of users.
 
-The primary purpose of DHMN is to empower and ensure the survival of the thriving community that currently meets in two contexts - the brick and mortar building currently located at 120 N. Morrison Street in Appleton, Wisconsin and the virtual members that participate on the group’s mailing list, website, and social media outlets.  DHMN’s physical location is called “The Appleton Makerspace, powered by DHMN”.  The Appleton Makerspace is a community workshop with a health-club membership model.  We are a cross of machine shop, electronics manufacturer, programmers co-op and art studio, but with mentors, classes and personal project space
+mention emergency spending somewhere in a policy instead of treasurer.
 
-In addition to exploring the benefits of productivity through volunteer collaboration, the DHMN’s primary objectives are to create, educate, share and learn.  DHMN wishes to be a good neighbor to all hackers and makers by collaborating with and encouraging makerspaces around the world, whether they are long-existing organizations or emerging groups
+# Orginization Bylaws
 
-### 1.3 - Scope
+## 1 — DOCUMENT SCOPE
 
-These bylaws consider DHMN (the organization) and “The Appleton Makerspace powered by DHMN” to be one organization.
+This document is to call out the procedures for operating and changing the business and management structure of the corporation.  This includes items like voting rights and board member rigths.
 
-## 2 — Members
+This document is subordinate to the Articles of Incorporation and does not need to re-address policies held there.
 
-### 2.1 - Eligibility
+This document does not need to adress all facets of day-to-day operations, user requirements, or officer duties.  Such items can be contained in policies that are subordinate to this document and have a lower threshold for change.
 
-#### 2.1.1 - Membership
+## 2 — MEMBERSHIP
 
-Members must have two signatures from members on a completed membership application and be current on their DHMN dues payment (or be determined by the board to be in a currently valid makership).
+### 2.1 - Definition
+
+A member is an individual or entity that has certain legal rights relating to the governance of the corporation.  Among these rights are the right to vote on changes to the Articles of Incorporation, the right to vote on the makeup of the board of directors and the right to review changes to these bylaws prior to enactment by the board.
+
+### 2.1 - Membership Eligibility and Status
+
+### 2.1.1 - Membership Eligibility
+
+1. Members must be active users of the space as per policy (including being not more than 1 month delinquent on dues if required)
+2. Members must have met requirement 1 for at least 3 months
+
+### 2.1.2 - Award of Membership Status
+
+An individual or entity who meets eligibility may be awarded membership status.  The award process is meant require a certain level of commitment and service to the organization before receiving additional rights. Membership status is awarded through one of three methods:
+
+1. Award by majority vote of a quarum of the board at any regular organizational meeting
+2. Award by majority vote of the current board members at any time
+3. Award by majority vote of the current membership at any time
+4. Grandfathered membership from previous bylaw requirements.  This is to be interpreted as applying to the following individuals:
+		TODO
+
+### 2.1.3 - Loss of Membership Status
+
+Membership status is lost immediately through failure to meet eligability or through one of the following:
+
+1. Unanimous vote of a quarum of the board at any regular organizational meeting
+2. Unanimous vote of the current board members at any time
+3. By a 70% super majority vote of the current membership at any time
+
+### 2.1.4 - Membership Status Change Notice
+
+Changes in status and the reason must be noted in the minutes of the organizational meeting there the change occured or of the next one if the change occurs outside of a meeting.
+
+### 2.1.5 - Contrast with a User
+
+Board policies will allow "Users" of the organization.  That is an individual or entity who has the right to use or participate in organization functions such as the makerspace, possibly for required dues.  These users are NOT automatically members.
+
+
+## 3 — BOARD OF DIRECTORS
+
+### 3.1 - Composition
+
+The board shall be made up of up to 6 people serving annual terms begining and ending March 1st.
+
+### 3.2 - Board Eligibility
+
+There are no specific requirements for board eligibility. Members, non-members, specialists or people from the community are all possible. 
+
+### 3.3 - Board Elections
+
+Elections shall occur as needed to maintain the size of the board.  All members may vote, and communication will be handled via email with reasonable notice. 
+
+An election for N seats will consist of:
+
+1. A call for election from the board with optional suggestions or call for nominations
+2. In a reasonable time frame specified in the election call, Each member shall list up to N names that they are voting for.
+3. The N names who receive the highest vote count will be is elected. Tie votes shall be broken first by a vote of the sitting board members, then by a random choice.
+
+
+
+
 
 #### 2.1.2 - Officers
 
@@ -133,9 +198,6 @@ In the case of a tie vote by the board, the result of a popular vote of all curr
 
 The Board of Directors, a.k.a. board, a.k.a. board of officers, is defined as all current elected officers of the DHMN.
 
-### 3.3 - Elections for the Officers:
-
-Elections shall occur annually at dates determined by the sitting Officers and shall be open to all active member and be communicated via the DHMN mailing list.  Each voter shall vote “Yea” or “Nay” for each candidate. The candidate with the most "Yea" votes is elected. Tie votes shall require a run-off vote. When the election results are confirmed and announced, the Officer seats are vacated and assumed by the newly elected member.
 
 ## 4 - The Appleton Makerspace (powered by DHMN) and Facility-Specific Rules.
 
